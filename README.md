@@ -10,4 +10,10 @@
 * Selectivizr, CSS3 pseudo-classes: http://selectivizr.com/ It emulates CSS3 pseudo-classes and attribute selectors in IE6-8
 * Flexie.js, Flexible Box Model: http://flexiejs.com/ Cross-browser support for the Flexible Box Model (IE 6-9, Opera 10.0+)
 
+
+### CRoss Browse Testing
+* XP Model on Win 7 http://windows.microsoft.com/en-us/windows7/install-and-use-windows-xp-mode-in-windows-7
+* Modern.IE, Testing https://www.modern.ie/
+* Browserstack, http://www.browserstack.com/
+
 * Can I use: http://caniuse.com/ browser support tables for desktop and mobile web browsers
